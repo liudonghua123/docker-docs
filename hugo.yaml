@@ -4,6 +4,7 @@ refLinksErrorLevel: ERROR
 enableGitInfo: true
 disablePathToLower: true
 enableInlineShortcodes: true
+canonifyurls: true
 
 taxonomies:
   tag: tags
